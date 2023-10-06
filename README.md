@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Poojabhadari123
 - 👀 I’m interested in data analysis career pathway
 - 🌱 I’m currently learning python, tableau, power BI, HTML, JavaScript etc
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach out to me via phone (+918920774398) or Email poojabhandari990@gmail.com
 
 <!---
